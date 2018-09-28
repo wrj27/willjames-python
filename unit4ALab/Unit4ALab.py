@@ -1,0 +1,2 @@
+someWord = input ()
+print (someWord)
