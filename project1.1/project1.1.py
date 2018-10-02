@@ -7,6 +7,10 @@ def main():
     print ("Your average grade is", averages)
 
     print ("Your letter grade is", getLetterGrade(averages))
+    if averages >= 70:
+        print ("Yay, you're passing")
+    else:
+        print ("You need to study")
 
 
 def getYearInSchool(grade):
