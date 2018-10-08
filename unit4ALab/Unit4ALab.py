@@ -4,6 +4,8 @@ def main():
 
     print(devowel(someWord))
 
+    mathStuff()
+
 
 
 
@@ -14,6 +16,15 @@ def devowel(someWord):
         if (w != "a" and w != "e" and w != "i" and w != "o" and w != "u"):
             noVowel = noVowel + w
     return (noVowel)
+
+def mathStuff ():
+    num = input ("numbers")
+    numList = []
+    for i in range (0, int(num)):
+        myNum = input ("Pick a number")
+        numList.append (myNum)
+        print (numList)
+    return (numList)
 
 
 main()
