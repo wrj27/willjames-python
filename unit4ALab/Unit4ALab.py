@@ -22,7 +22,7 @@ def mathStuff ():
     numList = []
     for i in range (0, int(num)):
         myNum = input ("Pick a number")
-        numList.append (myNum)
+        numList.append (int(myNum) * int(num))
         print (numList)
     return (numList)
 
