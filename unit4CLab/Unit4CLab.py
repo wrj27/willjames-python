@@ -1,9 +1,11 @@
-def theMain():
+def Main():
     for z in range(0,7):
         draw7()
 
     for v in range(0,3):
         starsAndStripes()
+
+    incTriangle(8)
 
 
 def draw7():
@@ -23,11 +25,15 @@ def starsAndStripes():
     print (asterix)
     print (dash)
 
-def incTriangle():
-    for a in range(0,7):
-        print (input("num"))
+def incTriangle(num):
+    for i in range(num):
+        for j in range(i):
+            print (str(i),end = "")
+        print()
 
 
 
 
-theMain()
+
+
+Main()
