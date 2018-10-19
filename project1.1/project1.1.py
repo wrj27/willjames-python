@@ -3,12 +3,14 @@ def main():
     print (getYearInSchool(grade))
     input ("pause")
 
-    calcAverageGrade(averages)
-    print ("Your average grade is", averages)
+
+    average = calcAverageGrade()
+    print ("Your average grade is " + str(average))
     input ("pause")
 
-    print ("Your letter grade is", getLetterGrade(averages))
-    if averages >= 70:
+    getLetterGrade(average)
+    print ("Your letter grade is", getLetterGrade(average))
+    if average >= 70:
         print ("Yay, you're passing")
     else:
         print ("You need to study")
@@ -26,24 +28,23 @@ def getYearInSchool(grade):
     else:
         return ('Not in highschool.')
 
-def calcAverageGrade(averages):
-    num = int (input ("numbers"))
+def calcAverageGrade():
+    sum = float(0)
+    num = input ("numbers")
+    print (num)
     numList = []
+    input ("pause")
     for i in range (0, int(num)):
-        myNum = input ("Pick a number")
-        numList.append (myNum)
+        myNum = input ("Pick a grade")
+        numList.append (int(myNum))
         print (numList)
-    total = 0
-    for i in numList:
-        total = total + i
-        print ("i = " + str(i))
-        print ("total = " + str(total))
         input ("pause")
-
-    averages = total / int(num)
-    print ("total " + str(total) + " / " + num)
-    print (averages)
-    return calcAverageGrade(averages)
+    for i in numList:
+        sum = (sum + float(i))
+    print (sum)
+    average = (sum/len(numList))
+    print (average)
+    return (average)
 
 def getLetterGrade(averages):
     if averages >= 90:
