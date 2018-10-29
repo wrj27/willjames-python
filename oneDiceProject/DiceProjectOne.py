@@ -1,13 +1,13 @@
 import random
 def main():
-    if input ("Do you want to play? - y or n?") == "y":
-        gamesPlayed = 0
-        gamesPlayed = gamesPlayed + 1
-        print("You have played " + str(gamesPlayed) + " games.")
+    gamesPlayed = 0
+    while(input("Do you want to play again? y or n - ") == 'y'):
         dice()
-        main()
-    elif "n":
-        print("Thanks for playing!")
+        randomNumber()
+        gamesPlayed += 1
+        print("You have played " + str(gamesPlayed) + " times.\n_____________")
+    else:
+        print ("Thanks for playing!")
 
 
 def dice():
