@@ -1,19 +1,22 @@
 import random
+DICENUM = 2
+
+
 def main():
 
-    setOfDice = [0] * 6     #creatw a list to store 6 dice
-    setOfDice = dice()
 
-    printDice(setOfDice)
-
-
-    play = "y"
     gamesPlayed = 0
+    setOfDice = diceBuild()
 
-    while play == "y":
-        for i in range(0,22):
-            print("_", end = "")  #print line between games
-        dice()
+    while input("Do you want to play? y or n -") == "y":
+        diceSet = [0] * DICENUM
+        addsets = []
+        for i in range(DICENUM):
+            roll = randomNum()
+            addsets.append(roll + 1)
+            diceSet[i] = setOfDice[roll]
+        printDice(diceSet)
+        print(addsets)
 
         gamesPlayed += 1
         print("You have played " + str(gamesPlayed) + " times.")
@@ -21,37 +24,32 @@ def main():
         print ("You played " + str(gamesPlayed) + " games.\nThanks for playing!")
 
 
-def dice():
-    dice = [0] * 6
-    topBot = "-------"
+def diceBuild():
+    topBot = " ------- "
     blank = "|       |"
     mid = "|   *   |"
     left = "| *     |"
     right = "|     * |"
-    deux = "| *   * |"
-
-    for num in range(0,6):
-        if num == 0:
-            dice[num] = [topBot,blank,mid,blank,topBot]
-        elif num == 1:
-            dice[num] = [topBot,left,blank,right,topBot]
-        elif num == 2:
-            dice[num] = [topBot,left,mid,right,topBot]
-        elif  num == 3:
-            dice[num] = [topBot,deux,blank,deux,topBot]
-        elif num == 4:
-            dice[num] = [topBot,deux,mid,deux,topBot]
-        else:
-            dice[num] = [topBot,deux,deux,deux,topBot]
-    return dice
-
-#generate a rand num between 1 and 6 to rep dice
-def rollDice():
-    return random.num(1,6)
+    twodot = "| *   * |"
+    one = [topBot,blank,mid,blank,topBot]
+    two = [topBot,left,blank,right,topBot]
+    three = [topBot,left,mid,right,topBot]
+    four = [topBot,twodot,blank,twodot,topBot]
+    five = [topBot,twodot,mid,twodot,topBot]
+    six = [topBot,twodot,twodot,twodot,topBot]
+    allDice = [one, two, three, four, five, six]
+    return allDice
 
 
-def printDice():
-    print(dice)
+def printDice(allDice):
+    for dice in range(len(allDice[0])):
+        for side in range(len(allDice)):
+            print (allDice[side][dice], end = "\t")
+        print()
+
+
+def randomNum():
+    return random.randint(0,5)
 
 
 
