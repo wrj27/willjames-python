@@ -3,7 +3,7 @@ import turtle
 pen = turtle.Pen()
 turtle.setup(width = 1000, height = 750)
 turtle.title("Poly Turtle")
-pen.speed(1)
+pen.speed(0)
 turtle.bgcolor(input("Your background color is -"))
 
 def mainDraw():
@@ -12,12 +12,13 @@ def mainDraw():
     color = input("What color is your pen? - ")
     pen.pencolor(str(color))
     x = 0
-    z = int(360 / num)
+    w = int(((num-2) * 360) / (num / 2))
+    #z = int(360 / num)
     #y = int(((num-2) * 360) / (num))
     while x < num:
         pen.pendown()
         pen.forward(side)
-        pen.left(angle = y)
+        pen.left(angle = w)
         pen.penup()
         x += 1
 
