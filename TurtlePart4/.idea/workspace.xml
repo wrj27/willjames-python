@@ -7,10 +7,8 @@
       <change afterPath="$PROJECT_DIR$/../dictionaries/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../dictionaries/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../dictionaries/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionaries/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TurtleLabPart3/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TurtleLabPart3/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Turtle Part 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Part 4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TwoDice1.5/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TwoDice1.5/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TwoDice1.5/TwoDice1.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TwoDice1.5/TwoDice1.5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Unit1Lab/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit1Lab/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
@@ -40,7 +38,7 @@
     <session id="-1989546386">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.opened" value="2" />
@@ -75,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Turtle Part 4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            <state relative-caret-position="345">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <marker date="1543251838538" expanded="true" signature="444:445" ph="..." />
                 <marker date="1543251838538" expanded="true" signature="1620:1627" ph="..." />
@@ -105,10 +103,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
     <option name="y" value="25" />
-    <option name="width" value="1295" />
-    <option name="height" value="860" />
+    <option name="width" value="1287" />
+    <option name="height" value="857" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -170,11 +169,11 @@
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1602" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24984147" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24984147" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32947233" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32947233" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -196,8 +195,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Turtle Part 4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="345">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           <folding>
             <marker date="1543251838538" expanded="true" signature="444:445" ph="..." />
             <marker date="1543251838538" expanded="true" signature="1620:1627" ph="..." />
