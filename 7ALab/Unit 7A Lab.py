@@ -23,12 +23,29 @@ class cagePet():
         self.name2 = cName
     def getcType(self):
         return (self.type2)
-    def getcDanger(self):
-        return (self.danger)
+    def getDanger(self):
+        input("Is this animal dangerous? - t ot f -")
+        if "t":
+            return ("This animal is dangerous")
+        elif "f":
+            return ("This animal is not dangerous.")
+        else:
+            "y"
     def getcName(self):
         return (self.name2)
+x = input("Is this animal dangerous?")
 
-myCage = cagePet(input("Give a caged animal"), x = input("Is this animal dangerous? - t or f", input("Name it. - ")))
+myCage = cagePet(input("Give a caged animal"), x, input("Name it. - "))
 print(myCage.getcType())
 if x is "t":
+    print("This animal is dangerous.")
+elif x is "f":
+    print("This animal is not dangerous.")
+else:
+    "y"
+print(myCage.getcName())
+
+
+
+
 
