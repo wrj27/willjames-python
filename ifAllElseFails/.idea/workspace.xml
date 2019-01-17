@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30151196-77ae-411d-aa42-4fabb60a61ec" name="Default Changelist" comment="The one i turn in if i can't get dice to work.">
+      <change afterPath="$PROJECT_DIR$/../6BLab/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6BLab/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit2ALab/Unit2ALab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit4BLab/Unit4BLab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionaries/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionaries/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionaries/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionaries/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forfun/DvD screen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forfun/base_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/.idea/pygame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/pygame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6BLab/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../6BLab/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7ALab/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7ALab/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7ALab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7ALab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7BLab/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7BLab/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7BLab/7BLab.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7BLab/7BLab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalProject/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalProject/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalProject/Final Project.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalProject/Final Project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurtleLabPart3/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TurtleLabPart3/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurtlePart4/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TurtlePart4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurtlePart4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TurtlePart4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TurtlePart4/Turtle Part 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TurtlePart4/Turtle Part 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TwoDice1.5/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TwoDice1.5/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TwoDice1.5/TwoDice1.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TwoDice1.5/TwoDice1.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit1Lab/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit1Lab/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit2BLab/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit2BLab/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit2CLab/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit2CLab/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4DLab/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit4DLab/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bigturtle/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bigturtle/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bigturtle/bigTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bigturtle/bigTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dictionaries/Dictionary Practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dictionaries/Dictionary Practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellotacoma/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hellotacoma/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellotacoma/hello tacoma.py" beforeDir="false" afterPath="$PROJECT_DIR$/../hellotacoma/hello tacoma.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pygame/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dictionaries/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If All Else Fails.py" beforeDir="false" afterPath="$PROJECT_DIR$/If All Else Fails.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oneDiceProject/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oneDiceProject/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oneDiceProject/DiceProjectOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/../oneDiceProject/DiceProjectOne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project1.1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project1.1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rollTwoDice/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rollTwoDice/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtleINTRO/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../turtleINTRO/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtleINTRO/Turtle intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/../turtleINTRO/Turtle intro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit4ALab/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../unit4ALab/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit4ALab/Unit4ALab.py" beforeDir="false" afterPath="$PROJECT_DIR$/../unit4ALab/Unit4ALab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/Yahtzee2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/Yahtzee2.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/If All Else Fails.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1950">
+              <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/If All Else Fails.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="1295" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ifAllElseFails" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ifAllElseFails" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="If All Else Fails" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ifAllElseFails" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/If All Else Fails.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.If All Else Fails" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="25" width="1602" height="876" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24984147" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32820514" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The one i turn in if i can't get dice to work." />
+    <option name="LAST_COMMIT_MESSAGE" value="The one i turn in if i can't get dice to work." />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/If All Else Fails.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

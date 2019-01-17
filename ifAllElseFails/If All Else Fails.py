@@ -143,4 +143,5 @@ def main():
         score = patterns(dice)
         total_score = total_score + score
     print("Final score: " + str(total_score) + " points.")
+    print("Thanks for playing!")
 main()
